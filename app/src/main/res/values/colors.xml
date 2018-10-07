@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#795548</color>
+    <color name="colorPrimaryDark">#A1887F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorMerah">#96281B</color>
+    <color name="colorHijau">#1BBC9B</color>
+    <color name="colorBiru">#2574A9</color>
+    <color name="colorOrange">#E87E04</color>
+    <color name="colorPutih">#FFFFFF</color>
+</resources>
